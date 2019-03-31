@@ -1,0 +1,23 @@
+kind: pipeline
+name: default
+
+steps:
+  - name: build website
+    image: golang:1.11
+    environment:
+      GO111MODULE: on
+    commands:
+      - make build
+
+  - name: publish website
+    image: plugins/gh-pages
+    settings:
+      username:
+        from_secret: github_username
+      password:
+        from_secret: github_password
+      pages_directory: public/
+    when:
+      branch:
+        include:
+          - master
