@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Spicer</title>
+    <link>/</link>
+    <description>Recent content on Mark Spicer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2019 Mark Spicer</copyright>
+    <lastBuildDate>Sun, 31 Mar 2019 09:28:55 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resume</title>
+      <link>/resume/</link>
+      <pubDate>Sun, 31 Mar 2019 09:28:55 -0400</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>For the most up to date introduction and contact information, checkout the about page on this website.
+Experience  Squarespace June 2016 - Present
+ Senior Software Engineer
+ Lead the migration efforts of the monolithic CMS platform to Kubernetes which involved coordination with 7+ teams and multiple quarters to deliver. Migrated 544 VM based instances across 11 different fleets spanning two data centers to Kubernetes with zero production incidents.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 24 Mar 2019 15:09:03 -0400</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi, I&amp;rsquo;m Mark. I&amp;rsquo;m a New York City based Software Engineer currently working at Squarespace. I work on the core, monolithic, CMS platform contributing backend software, building frameworks and platforms to build product features on top of, and operating the multitude of binaries running in production.
+I spend my free time working at theprepared.org&amp;rsquo;s workshop/makerspace/coworking community in Bed Stuy, Brooklyn building hardware projects and learning about manufacturing. Here is a picture of my workbench (something I&amp;rsquo;m oddly proud of):</description>
+    </item>
+    
+    <item>
+      <title>Initial Commit</title>
+      <link>/posts/initial-commit/</link>
+      <pubDate>Sun, 24 Mar 2019 14:46:17 -0400</pubDate>
+      
+      <guid>/posts/initial-commit/</guid>
+      <description>Over the last several years of my life, I have spent a lot of time doing things and not nearly enough time talking about them. This rendered my previous personal website with very little content and leaves the personal projects I&amp;rsquo;ve invested well too much time on unknown to the world.
+Beyond simply sharing my work, I&amp;rsquo;m interested in a more formalized and public retrospective where I take time to think about the lessons I&amp;rsquo;ve learned.</description>
+    </item>
+    
+  </channel>
+</rss>
