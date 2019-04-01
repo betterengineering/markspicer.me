@@ -6,9 +6,7 @@ build: tools theme
 
 tools: $GOPATH/bin/hugo
 
-theme: themes/terminal
-
-themes/terminal:
+theme:
 	git submodule update --init --recursive
 
 $GOPATH/bin/hugo:
