@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Mark Spicer</title>
-    <link>/series/</link>
+    <link>http://mark.ste332.com/series/</link>
     <description>Recent content in Series on Mark Spicer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2019 Mark Spicer</copyright>
     <lastBuildDate>Sun, 24 Mar 2019 14:46:17 -0400</lastBuildDate>
     
-	<atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mark.ste332.com/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project Backlog</title>
-      <link>/series/project-backlog/</link>
+      <link>http://mark.ste332.com/series/project-backlog/</link>
       <pubDate>Sun, 24 Mar 2019 14:46:17 -0400</pubDate>
       
-      <guid>/series/project-backlog/</guid>
+      <guid>http://mark.ste332.com/series/project-backlog/</guid>
       <description></description>
     </item>
     

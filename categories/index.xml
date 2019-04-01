@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mark Spicer</title>
-    <link>/categories/</link>
+    <link>http://mark.ste332.com/categories/</link>
     <description>Recent content in Categories on Mark Spicer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2019 Mark Spicer</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mark.ste332.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>/categories/projects/</link>
+      <link>http://mark.ste332.com/categories/projects/</link>
       <pubDate>Sun, 24 Mar 2019 14:46:17 -0400</pubDate>
       
-      <guid>/categories/projects/</guid>
+      <guid>http://mark.ste332.com/categories/projects/</guid>
       <description></description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Mark Spicer</title>
-    <link>/categories/projects/</link>
+    <link>http://mark.ste332.com/categories/projects/</link>
     <description>Recent content in Projects on Mark Spicer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2019 Mark Spicer</copyright>
     <lastBuildDate>Sun, 24 Mar 2019 14:46:17 -0400</lastBuildDate>
     
-	<atom:link href="/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mark.ste332.com/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Initial Commit</title>
-      <link>/posts/initial-commit/</link>
+      <link>http://mark.ste332.com/posts/initial-commit/</link>
       <pubDate>Sun, 24 Mar 2019 14:46:17 -0400</pubDate>
       
-      <guid>/posts/initial-commit/</guid>
+      <guid>http://mark.ste332.com/posts/initial-commit/</guid>
       <description>Over the last several years of my life, I have spent a lot of time doing things and not nearly enough time talking about them. This rendered my previous personal website with very little content and leaves the personal projects I&amp;rsquo;ve invested well too much time on unknown to the world.
 Beyond simply sharing my work, I&amp;rsquo;m interested in a more formalized and public retrospective where I take time to think about the lessons I&amp;rsquo;ve learned.</description>
     </item>
