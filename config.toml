@@ -1,4 +1,4 @@
-baseurl = "http://mark.ste332.com"
+baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
