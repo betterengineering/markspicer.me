@@ -3,57 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://mark.ste332.com/resume/</loc>
+    <loc>/resume/</loc>
     <lastmod>2019-03-31T09:28:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mark.ste332.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-03-24T15:09:03-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mark.ste332.com/posts/initial-commit/</loc>
+    <loc>/posts/initial-commit/</loc>
     <lastmod>2019-03-24T14:46:17-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mark.ste332.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mark.ste332.com/</loc>
+    <loc>/</loc>
     <lastmod>2019-03-31T09:28:55-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mark.ste332.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2019-03-24T14:46:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mark.ste332.com/series/project-backlog/</loc>
+    <loc>/series/project-backlog/</loc>
     <lastmod>2019-03-24T14:46:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mark.ste332.com/categories/projects/</loc>
+    <loc>/categories/projects/</loc>
     <lastmod>2019-03-24T14:46:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mark.ste332.com/series/</loc>
+    <loc>/series/</loc>
     <lastmod>2019-03-24T14:46:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mark.ste332.com/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
